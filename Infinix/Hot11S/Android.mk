@@ -4,9 +4,9 @@ include $(CLEAR_VARS)
 
 LOCAL_MODULE_TAGS := optional
 
-LOCAL_PACKAGE_NAME := treble-overlay-infinix-note10pro
+LOCAL_PACKAGE_NAME := treble-overlay-infinix-hot11S
 
-LOCAL_MODULE_PATH := $(TARGET_OUT_PRODUCT)/overlay
+LOCAL_MODULE_PATH := $(TARGET_OUT)/overlay
 
 LOCAL_IS_RUNTIME_RESOURCE_OVERLAY := true
 
